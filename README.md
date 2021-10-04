@@ -1,4 +1,4 @@
-# Kokoa Clone
+# Kokoa Clone 2020
 
 Cloning Kakaotalk using HTML and CSS
 
