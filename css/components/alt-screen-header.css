@@ -20,5 +20,8 @@
 .alt-header__column:last-child {
   display: flex;
   justify-content: flex-end;
+  text-align: center;
 }
-
+.alt-header__column:last-child i:last-child {
+  margin-left: 20px;
+}
