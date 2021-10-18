@@ -18,15 +18,4 @@
 .nav__link {
   position: relative;
 }
-.nav__notification {
-  position: absolute;
-  left: 15px;
-  bottom: 15px;
-}
-.cog__notification {
-  width: 5px;
-  height: 5px;
-  border-radius: 50%;
-  left: 25px;
-  bottom: 30px;
-}
+

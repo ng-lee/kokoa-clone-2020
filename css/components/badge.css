@@ -1,11 +1,29 @@
 .badge {
   background-color: tomato;
-  width: 25px;
-  height: 25px;
-  border-radius: 50%;
   display: flex;
   justify-content: center;
   align-items: center;
   color: white;
   font-weight: 600;
+}
+
+.msg__notification {
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+}
+
+.cog__notification {
+  position: absolute;
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  left: 25px;
+  bottom: 30px;
+}
+
+.nav__notification {
+  position: absolute;
+  left: 15px;
+  bottom: 15px;
 }
