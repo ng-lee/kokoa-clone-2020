@@ -2,6 +2,6 @@
 
 Cloning Kakaotalk using HTML and CSS
 
-by Nomad Coders
+from Nomad Coders
 
 2020 Update!
