@@ -10,17 +10,19 @@
   font-size: 32px;
   font-weight: 600;
 }
-.alt-header__column {
-  width: 33%;
+.alt-header__column:first-child {
+  width: 10%;
 }
 .alt-header__column:nth-child(2) {
+  width: 80%;
   display: flex;
   justify-content: center;
+  text-align: center;
 }
 .alt-header__column:last-child {
+  width: 10%;
   display: flex;
   justify-content: flex-end;
-  text-align: center;
 }
 .alt-header__column:last-child i:last-child {
   margin-left: 20px;

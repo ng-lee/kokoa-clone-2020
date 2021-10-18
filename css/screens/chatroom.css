@@ -31,6 +31,7 @@
   height: 50px;
   border-radius: 20px;
   margin-right: 10px;
+  background-color: white;
 }
 .message__author {
   opacity: 0.8;
